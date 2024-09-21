@@ -1,0 +1,28 @@
+1. Write a C program to enter two numbers and find their sum.
+2. Write a C program to enter the length and breadth of a rectangle and find its perimeter.
+3. Write a C program to enter the radius of a circle and find its diameter, circumference, and area.
+4. Write a C program to find the power of any number x ^ y.
+5. Write a C program to enter any number and calculate its square root.
+6. Write a C program to enter the base and height of a triangle and find its area.
+7. Write a C program to find the maximum between two numbers.
+8. Write a C program to find the maximum between three numbers.
+9. Write a C program to check whether a number is negative, positive, or zero.
+10. Write a C program to check whether a number is divisible by 5 and 11 or not.
+11. Write a C program to check whether a number is even or odd.
+12. Write a C program to check whether a character is an alphabet or not.
+13. Write a C program to input any alphabet and check whether it is a vowel or consonant.
+14. Write a C program to input any character and check whether it is an alphabet, digit, or special character.
+15. Write a C program to check whether a character is an uppercase or lowercase alphabet.
+16. Write a C program to print all natural numbers from 1 to n.
+17. Write a C program to print all natural numbers in reverse (from n to 1).
+18. Write a C program to print all alphabets from a to z.
+19. Write a C program to print all odd numbers between 1 to 100.
+20. Write a C program to find the sum of all natural numbers between 1 to n.
+21. Write a C program to find the sum of all even numbers between 1 to n.
+22. Write a C program to print the multiplication table of any number.
+23. Write a C program to count the number of digits in a number.
+24. Write a C program to find the first and last digit of a number.
+25. Write a C program to find the sum of the first and last digit of a number.
+
+
+
